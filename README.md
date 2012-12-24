@@ -1,0 +1,4 @@
+SimpleDate.js
+=============
+
+JavaScript Date
